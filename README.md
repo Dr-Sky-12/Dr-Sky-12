@@ -3,7 +3,7 @@
 
 - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Z-DNA_orbit_animated.gif"  height="30" width="25" />I’m currently working on **Animal Combat decoding**
 
-- <img align="center" src="https://bestanimations.com/media/loading-gears/1461993604single-gear-cog-animation-1-3.gif"  height="20" width="20" /></h1> I’m currently learning [**AI**](https://www.w3schools.com/python/python_ml_getting_started.asp)
+- <img align="center" src="https://bestanimations.com/media/loading-gears/1461993604single-gear-cog-animation-1-3.gif"  height="20" width="20" /></h1> I’m currently learning [**C#**](https://www.w3schools.com/python/python_ml_getting_started.asp)
 
 - <img align="center" src="https://www.ceciliapelosi.com/wp-content/uploads/2014/05/Doers-Fist-Bump.gif"  height="30" width="30" /></h1> I’m looking for help with **Automated Data Manipulation**
 
