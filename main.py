@@ -1,10 +1,14 @@
+#this code of mine is useful to extract, search and analyze data from google sheets ( google forms) . This is just a skeleton you can convert list to set to find common terms and likewise muchmore improvisations can be done 
+#thanksfrvisitingdec2020
+
+
 import pandas as  pd
 import numpy as np
 
 
 
-googleSheetId = "1pEroBjP1UZMCNBu0Gju0WBH_zUiQDC_IjZMOu72CbR0"
-worksheetName = "OG"
+googleSheetId = "sheetid"
+worksheetName = "sheet name"
 URL = "type google sheet url with output as csv ".format(
 	googleSheetId,
 	worksheetName
