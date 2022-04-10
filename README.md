@@ -7,7 +7,7 @@
 
 - <img align="center" src="https://www.ceciliapelosi.com/wp-content/uploads/2014/05/Doers-Fist-Bump.gif"  height="30" width="30" /></h1> I’m looking for help with **Automated Data Manipulation**
 
-- 👨‍💻 All of my projects are available at [github.com/Dr.Sky 12](https://github.com/Dr-Sky-12)
+- 👨‍💻 All of my projects are available at [github.com/Dr.Sky 12](https://github.com/Dr-Sky-12?tab=repositories)
 
 - 💬 Ask me about **Medical Diagnosis Algorithm**
 
